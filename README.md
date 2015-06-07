@@ -4,7 +4,7 @@ Python Script to create a solved Sudoku
 As for now, this is not working, either it is leading to Invalid Block, 
 or I'm being ended up Puzzle with more than one solution
 
-Here is my logic to create puzzle \n
+Here is my logic to create puzzle  
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Count = 0
